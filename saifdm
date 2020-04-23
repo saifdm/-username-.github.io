@@ -1,0 +1,7 @@
+git clone https://github.com/saifdm/saifdm .github.io
+cd saifdm.github.io
+echo "Hello World" > index.html - simple HTML webpage
+git add --all - add new files to repo
+git commit -m "Initial commit"
+git push -u origin master - push the local changes to the remote repo
+test at https://<username>.github.io
